@@ -20,9 +20,17 @@
     "ionic 5 rating"
   ],
   "author": {
-    "name": "Muhamad Hafizuddin",
-    "email": "hafiz.hassan@hotmail.my"
+    "name": "Jacobo Cantorna Cigarrán",
+    "email": "jacobo@squareet.com.com",
+    "url": "https://squareet.com"
   },
+  "contributors": [
+    {
+      "name": "Alberto Rial Barreiro",
+      "email": "alberto@squareet.com",
+      "url": "https://squareet.com"
+    }
+  ],
   "license": "MIT",
   "homepage": "https://github.com/hafizhassan/ionic-rating-component",
   "peerDependencies": {
