@@ -4,7 +4,7 @@
   "version": "1.1.6",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/squareetlabs/ionic-rating-component.git"
+    "url": "git+https://github.com/hafizhassan/ionic-rating-component.git"
   },
   "keywords": [
     "ionic5 rating",
@@ -20,17 +20,9 @@
     "ionic 5 rating"
   ],
   "author": {
-    "name": "Jacobo Cantorna Cigarrán",
-    "email": "jacobo@squareet.com.com",
-    "url": "https://squareet.com"
+    "name": "Muhamad Hafizuddin",
+    "email": "hafiz.hassan@hotmail.my",
   },
-  "contributors": [
-    {
-      "name": "Alberto Rial Barreiro",
-      "email": "alberto@squareet.com",
-      "url": "https://squareet.com"
-    }
-  ],
   "license": "MIT",
   "homepage": "https://github.com/squareetlabs/ionic-rating-component",
   "peerDependencies": {
