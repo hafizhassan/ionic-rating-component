@@ -34,9 +34,9 @@
   "license": "MIT",
   "homepage": "https://github.com/squareetlabs/ionic-rating-component",
   "peerDependencies": {
-    "@angular/common": "^9.1.12",
-    "@angular/core": "^9.1.12",
-    "@angular/forms": "^9.1.12",
+    "@angular/common": "~10.0.0",
+    "@angular/core": "~10.0.0",
+    "@angular/forms": "~10.0.02",
     "@ionic/angular": "^5.0.0"
   },
   "dependencies": {
