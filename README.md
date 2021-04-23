@@ -1,3 +1,7 @@
+npm install --save https://github.com/hafizhassan/ionic-rating-component/tarball/master
+
+
+
 # Ionic Rating Component
 
 Highly customizable Ionic 5 component to display evaluations or a quick rating operation of something.  
